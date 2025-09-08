@@ -1,1 +1,16 @@
+This is the intital setup process for Splunk.
 
+Step 1 (optional) but recomended)
+  Download VMware / Virtualbox or a Type 2 hypervisor
+  Vmware = https://www.vmware.com/products/desktop-hypervisor/workstation-and-fusion
+  Virtualbox = https://www.virtualbox.org/
+  HyperV/Virutlazation must be enabled 
+
+Step 2. Download OS iso file.
+      Windows = https://www.microsoft.com/en-us/software-download/windows11
+      ubuntu =  https://ubuntu.com/desktop
+
+Step 3: Run VMware/Virtualbox
+        Create new vm --> Install disc image file --> Next --> Name your file --> Set your location and storage --> Customize Hardware to run atleast 3 cpu and 4 gig ram --> Finish
+Step 4 Download Splunk
+      https://www.splunk.com/en_us/download.html?utm_campaign=google_amer_en_search_brand_mcpc_fy26&utm_source=google&utm_medium=cpc&utm_content=free_trials_downloads_v2&utm_term=splunk&device=c&_bt=733519987826&_bm=e&_bn=g&gad_source=1&gad_campaignid=22855605073&gbraid=0AAAAAD8kDz3Cad0I9yTclQjxqJEVbdyyu&gclid=CjwKCAjw2vTFBhAuEiwAFaScwr94kYUQvQQ01_1q8tq86qVnHtZzrzmUL8YNBHXf5udEUkglF9hr5RoCcXkQAvD_BwE
